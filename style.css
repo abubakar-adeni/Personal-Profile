@@ -9,7 +9,7 @@
 }
 
 section{
-  padding: 100px 200px;
+  padding: 100px 200px; 
 }
 
 .main{
@@ -529,6 +529,9 @@ body{
   color: #fff;
   text-align: center;
   padding:  2em;
+  position: relative;
+  top: 200px;
+  left: 0;
 }
 
 .footer .footer-title{
