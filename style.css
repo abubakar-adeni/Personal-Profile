@@ -57,6 +57,10 @@ section{
   animation: text-move 10s infinite;
 }
 
+.email {
+  font-size: small;
+}
+
 @keyframes text-move{
   0%{
     margin-top: 0;
@@ -524,7 +528,7 @@ body{
   background: #000016;
   color: #fff;
   text-align: center;
-  padding: 2em;
+  padding:  2em;
 }
 
 .footer .footer-title{
